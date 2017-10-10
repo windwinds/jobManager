@@ -1,0 +1,8 @@
+{
+  "plugins":[
+    {
+      "pluginName":"mysqlJobManager",
+      "pluginClass":"com.cug.intellM.jobManager.mysqlJobManager.MysqlJobManager"
+    }
+  ]
+}
